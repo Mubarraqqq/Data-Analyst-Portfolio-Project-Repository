@@ -1,2 +1,2 @@
-# Data-Analyst-Portfolio-Project-Repository
-This is a repository showing all the files with regard to different aspects of my data analyst projects. 
+# Covid 19 Data Analysis Project
+Conducting an in-depth exploratory analysis to examine the nuanced patterns and impacts of COVID-19 within individual states across the United States
